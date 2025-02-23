@@ -1,10 +1,10 @@
 # QR Code Generator
 
-<img width="959" alt="qr-codde-generator" src="/example-1.png">
+<img width="959" alt="qr-codde-generator" src="./example-1.png">
 
 ## Examples
 
-![qrs](/example-2.png)
+![qrs](./example-2.png)
 
 ## Tech Stack:
 
